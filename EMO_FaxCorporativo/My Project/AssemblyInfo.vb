@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Revisar los valores de los atributos del ensamblado
 
-<Assembly: AssemblyTitle("EMO_FaxCorporativo")>
+<Assembly: AssemblyTitle("EMO - Fax Corporativo")>
 <Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("EMO_FaxCorporativo")>
+<Assembly: AssemblyCompany("EMO - especialidades médico ortopédicas, sl")>
+<Assembly: AssemblyProduct("EMO - Fax Corporativo")>
 <Assembly: AssemblyCopyright("Copyright ©  2016")>
 <Assembly: AssemblyTrademark("")>
 
